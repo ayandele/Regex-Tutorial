@@ -53,4 +53,4 @@ Bracket expressions ([…]) define a set of characters, similar to character cla
 Greedy matching is used by default, meaning the regex tries to match as much as possible. Lazy matching (using +?, *?, ??, or {n,m}?) is not employed in this regex.
 
 ## Author
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+Dele Ayansola is graduate of the Columbia Engineering Full Stack Bootcamp and ardent follower of technology. More about Dele Ayansola - https://github.com/ayandele/professional-portfolio.git
